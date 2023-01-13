@@ -35,10 +35,10 @@ Click on 'Match' to try and match the current detected face with the best match 
 
 ## Screenshots
 
-(screenshots/GUI_Window.png)
-(screenshots/pca.png)
-(screenshots/match_1.png)
-(screenshots/match_2.png)
+![GUI Window](screenshots/GUI_Window.png)
+![PCA of trained faces](screenshots/pca.png)
+![Match](screenshots/match_1.png)
+![Match](screenshots/match_2.png)
 
 ## Conclusion
 
