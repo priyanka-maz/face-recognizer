@@ -1,0 +1,6 @@
+opencv-contrib-python
+opencv-python
+numpy
+pyqt5
+matplotlib
+sklearn
