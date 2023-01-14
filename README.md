@@ -42,7 +42,7 @@ pip install -r requirements.txt
 
 ## Conclusion
 
-1.  Initially, CPP and its OpenCV application was used to develop the face detection,
+1.  Initially, C++ and its OpenCV application was used to develop the face detection,
     but due to the need of using libraries like matplotlib and sklearn, a python
     implementation was done.
 
